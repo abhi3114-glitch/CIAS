@@ -182,6 +182,6 @@ For questions or feedback, open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for better thinking**
+**Built By Abhishek for better thinking**
 
 [Live Demo](https://cias.vercel.app) | [Documentation](https://github.com/abhi3114-glitch/CIAS/wiki) | [Report Bug](https://github.com/abhi3114-glitch/CIAS/issues)
